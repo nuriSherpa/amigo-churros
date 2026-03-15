@@ -19,4 +19,4 @@ A delicious, mobile-friendly website for Amigo Churros, a restaurant specializin
 Visit the live website: [amigochurros.com](https://amigochurros.com)
 
 ## 📸 Screenshots
-*(Add some screenshots of your website here)*
+
